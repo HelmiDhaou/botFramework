@@ -1,0 +1,2 @@
+exports.MAX_NUMBER_OF_ATTEMPTS = 1;
+  
