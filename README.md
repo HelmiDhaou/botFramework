@@ -1,9 +1,16 @@
 # botFramework
 
 ## Install and run 
-### npm install 
-### npm start
+Run the following command:
 
-## Connecet to botFramwork emulator
-### http://localhost:3005/api/messages
+```sh
+npm install
+```
+```sh
+npm start
+``` 
+
+## Start testing
+Using the following url connect to Bot Framework Emulator
+- http://localhost:3005/api/messages
 
